@@ -1,0 +1,4160 @@
+[
+  {
+    "code": "00-000177",
+    "name": "1BCMA General",
+    "uid": "6fe79491-5650-11ec-b84f-2c44fd82861b",
+    "Generalcode": "00-000177",
+    "Generalname": "1BCMA General",
+    "Generaluid": "6fe79491-5650-11ec-b84f-2c44fd82861b",
+    "General": true,
+    "items": [],
+    "itemscol": 0
+  },
+  {
+    "code": "00-000136",
+    "name": "AISL General",
+    "uid": "8e5e1934-6f1c-11ea-a355-0050568d7ea6",
+    "Generalcode": "00-000136",
+    "Generalname": "AISL General",
+    "Generaluid": "8e5e1934-6f1c-11ea-a355-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000167",
+        "name": "AISL Recharge",
+        "uid": "c0c30da1-b926-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000136",
+        "Generalname": "AISL General",
+        "Generaluid": "8e5e1934-6f1c-11ea-a355-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "00-000170",
+    "name": "AKS General",
+    "uid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+    "Generalcode": "00-000170",
+    "Generalname": "AKS General",
+    "Generaluid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000186",
+        "name": "AKS MCS Project",
+        "uid": "8454fc5a-ae9a-11ec-b862-2c44fd82861b",
+        "Generalcode": "00-000170",
+        "Generalname": "AKS General",
+        "Generaluid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000189",
+        "name": "AKS Project CON's",
+        "uid": "175007a4-44a5-11ed-b840-2c44fd87ecfb",
+        "Generalcode": "00-000170",
+        "Generalname": "AKS General",
+        "Generaluid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+        "items": [
+          {
+            "code": "00-000190",
+            "name": "TEST - CON - 1",
+            "uid": "2fa174e2-44a5-11ed-b840-2c44fd87ecfb",
+            "Generalcode": "00-000170",
+            "Generalname": "AKS General",
+            "Generaluid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000191",
+            "name": "TEST - CON - 2",
+            "uid": "2fa174e4-44a5-11ed-b840-2c44fd87ecfb",
+            "Generalcode": "00-000170",
+            "Generalname": "AKS General",
+            "Generaluid": "a9a56f2b-c1fa-11eb-b832-2c44fd828619",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 2
+      }
+    ],
+    "itemscol": 2
+  },
+  {
+    "code": "00-000089",
+    "name": "CNCEC General",
+    "uid": "6cee485e-0ab9-11ea-a2fd-0050568d7ea6",
+    "Generalcode": "00-000089",
+    "Generalname": "CNCEC General",
+    "Generaluid": "6cee485e-0ab9-11ea-a2fd-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000091",
+        "name": "CNCEC / HLU",
+        "uid": "81bf017d-0ab9-11ea-a2fd-0050568d7ea6",
+        "Generalcode": "00-000089",
+        "Generalname": "CNCEC General",
+        "Generaluid": "6cee485e-0ab9-11ea-a2fd-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000164",
+        "name": "CNCEC Recharge",
+        "uid": "6d13824b-b923-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000089",
+        "Generalname": "CNCEC General",
+        "Generaluid": "6cee485e-0ab9-11ea-a2fd-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000090",
+        "name": "CNCEC/ TCC",
+        "uid": "81bf0179-0ab9-11ea-a2fd-0050568d7ea6",
+        "Generalcode": "00-000089",
+        "Generalname": "CNCEC General",
+        "Generaluid": "6cee485e-0ab9-11ea-a2fd-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 3
+  },
+  {
+    "code": "00-000125",
+    "name": "FI Virtual Whs Assets Basket (ex.AssRivPort) General",
+    "uid": "d38b25a8-35c1-11ea-a331-0050568d7ea6",
+    "Generalcode": "00-000125",
+    "Generalname": "FI Virtual Whs Assets Basket (ex.AssRivPort) General",
+    "Generaluid": "d38b25a8-35c1-11ea-a331-0050568d7ea6",
+    "General": true,
+    "items": [],
+    "itemscol": 0
+  },
+  {
+    "code": "00-000172",
+    "name": "GATE General",
+    "uid": "13920372-d99d-11eb-b83c-2c44fd82861b",
+    "Generalcode": "00-000172",
+    "Generalname": "GATE General",
+    "Generaluid": "13920372-d99d-11eb-b83c-2c44fd82861b",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000173",
+        "name": "GATE/MVP",
+        "uid": "883553bc-d99e-11eb-b83c-2c44fd82861b",
+        "Generalcode": "00-000172",
+        "Generalname": "GATE General",
+        "Generaluid": "13920372-d99d-11eb-b83c-2c44fd82861b",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "-00-00003",
+    "name": "Hook up General",
+    "uid": "f8194445-51dc-11e8-965f-000c29cef507",
+    "Generalcode": "-00-00003",
+    "Generalname": "Hook up General",
+    "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000161",
+        "name": "Hook up Recharge",
+        "uid": "d412c897-b922-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000035",
+        "name": "HookUp/Engineering",
+        "uid": "e656da1e-761a-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000036",
+        "name": "HookUp/IT",
+        "uid": "edced11f-761a-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000037",
+        "name": "HookUp/Marine&Logistics",
+        "uid": "f3e2e944-761a-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000038",
+        "name": "HookUp/PreCom&Com",
+        "uid": "fb0df6cd-761a-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000039",
+        "name": "HookUp/Procurement",
+        "uid": "01111e93-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000041",
+        "name": "HookUp/RA",
+        "uid": "0df5028b-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000040",
+        "name": "HookUp/Site Management",
+        "uid": "07e249ff-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [
+          {
+            "code": "00-000042",
+            "name": "HookUp/SM/Batching Plant",
+            "uid": "37afb02e-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000043",
+            "name": "HookUp/SM/Civil Construction",
+            "uid": "43215d0c-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000044",
+            "name": "HookUp/SM/E&I",
+            "uid": "4daac6d8-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000045",
+            "name": "HookUp/SM/Hook-up Construction",
+            "uid": "59f8a889-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000046",
+            "name": "HookUp/SM/Mechanical & Piping",
+            "uid": "64d6760e-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000047",
+            "name": "HookUp/SM/PTW",
+            "uid": "6d33f0ef-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000048",
+            "name": "HookUp/SM/Survey",
+            "uid": "749be1f7-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000049",
+            "name": "HookUp/SM/Welding",
+            "uid": "7b866269-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 8
+      },
+      {
+        "code": "00-000050",
+        "name": "HookUp/АХО",
+        "uid": "7b86626a-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000051",
+        "name": "HookUp/БиОТ проекта",
+        "uid": "8a6c3e09-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000052",
+        "name": "HookUp/Департамент по Управлению Персоналом",
+        "uid": "935c1199-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000053",
+        "name": "HookUp/Отдел внутреннего контроля",
+        "uid": "995d8ba4-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000054",
+        "name": "HookUp/Отдел ОКиКК",
+        "uid": "995d8ba5-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000055",
+        "name": "HookUp/Отдел планирования и Отчётов",
+        "uid": "a52c4f04-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000056",
+        "name": "HookUp/Подразделение по управлению проектом",
+        "uid": "b7756907-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [
+          {
+            "code": "00-000058",
+            "name": "HookUp/ПУП/Handover Team",
+            "uid": "f2988eed-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000059",
+            "name": "HookUp/ПУП/Local Content",
+            "uid": "fb88fec1-761b-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000060",
+            "name": "HookUp/ПУП/Контрактный отдел",
+            "uid": "0df61c70-761c-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00003",
+            "Generalname": "Hook up General",
+            "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 3
+      },
+      {
+        "code": "00-000057",
+        "name": "HookUp/Транспорт",
+        "uid": "cf984fd1-761b-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00003",
+        "Generalname": "Hook up General",
+        "Generaluid": "f8194445-51dc-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 16
+  },
+  {
+    "code": "00-000001",
+    "name": "HQ General",
+    "uid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+    "Generalcode": "00-000001",
+    "Generalname": "HQ General",
+    "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000159",
+        "name": "HQ Recharge",
+        "uid": "74fcb8d7-b922-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000141",
+        "name": "HQ/AdvisoryBoard",
+        "uid": "58e3ffdf-d88f-11ea-a3cf-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000087",
+        "name": "HQ/Baiterek",
+        "uid": "83812d47-f1ab-11e9-a2e4-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000097",
+        "name": "HQ/HQ",
+        "uid": "8aa6727c-2f8f-11ea-a32b-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [
+          {
+            "code": "00-000098",
+            "name": "HQ/HQ/Admin&PMV",
+            "uid": "c6bb9605-2f8f-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000099",
+            "name": "HQ/HQ/Advisor",
+            "uid": "cd8c8825-2f8f-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000100",
+            "name": "HQ/HQ/Contract Administration",
+            "uid": "db611402-2f8f-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000101",
+            "name": "HQ/HQ/Corporate Managment",
+            "uid": "fe2560b9-2f8f-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000102",
+            "name": "HQ/HQ/Cost Control",
+            "uid": "686cf9de-2f9c-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000103",
+            "name": "HQ/HQ/Enviromental",
+            "uid": "911fc93f-2f9c-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000104",
+            "name": "HQ/HQ/Finance",
+            "uid": "60edd7ca-2fa1-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000105",
+            "name": "HQ/HQ/HR",
+            "uid": "d0036c3f-2fa1-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000106",
+            "name": "HQ/HQ/Internal Security",
+            "uid": "fa389068-2fa1-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000107",
+            "name": "HQ/HQ/IR",
+            "uid": "a367d48c-2fa7-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000108",
+            "name": "HQ/HQ/IT",
+            "uid": "adef8e97-2fa7-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000109",
+            "name": "HQ/HQ/Legal",
+            "uid": "b4f7992a-2fa7-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000110",
+            "name": "HQ/HQ/OHS",
+            "uid": "bda8052f-2fa7-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000111",
+            "name": "HQ/HQ/Project Management",
+            "uid": "cf6735f3-2fa7-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000112",
+            "name": "HQ/HQ/QA&QC",
+            "uid": "f9519191-2faa-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000113",
+            "name": "HQ/HQ/RA",
+            "uid": "fa990285-2fab-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000114",
+            "name": "HQ/HQ/SAMGAT",
+            "uid": "0a648fd3-2fac-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000115",
+            "name": "HQ/HQ/Security",
+            "uid": "1b425b20-2fac-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000116",
+            "name": "HQ/HQ/Supply Chain",
+            "uid": "4778b703-2fac-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000117",
+            "name": "HQ/HQ/Technical Office",
+            "uid": "798ae44b-2fac-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000118",
+            "name": "HQ/HQ/Tender&Propasal",
+            "uid": "e6c45f77-2fac-11ea-a32b-0050568d7ea6",
+            "Generalcode": "00-000001",
+            "Generalname": "HQ General",
+            "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 21
+      },
+      {
+        "code": "00-000074",
+        "name": "HQ/Management",
+        "uid": "bb929eed-84fb-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000073",
+        "name": "HQ/RITHIM",
+        "uid": "aea21723-84fb-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000144",
+        "name": "HQ/RITHIM Base",
+        "uid": "0b891ff1-fcd4-11ea-a3ec-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000145",
+        "name": "HQ/RITHIM Office ",
+        "uid": "1a8c1067-fcd4-11ea-a3ec-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000155",
+        "name": "HQ/University ",
+        "uid": "83a6e963-6528-11eb-a461-0050568d7ea6",
+        "Generalcode": "00-000001",
+        "Generalname": "HQ General",
+        "Generaluid": "6d94f90a-4ad5-11e8-98a8-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 9
+  },
+  {
+    "code": "00-000176",
+    "name": "ISTEK General",
+    "uid": "1369306b-357a-11ec-b84e-2c44fd82861b",
+    "Generalcode": "00-000176",
+    "Generalname": "ISTEK General",
+    "Generaluid": "1369306b-357a-11ec-b84e-2c44fd82861b",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000184",
+        "name": "ISTEK/Reboiler",
+        "uid": "38d147cf-8a72-11ec-b85e-2c44fd82861b",
+        "Generalcode": "00-000176",
+        "Generalname": "ISTEK General",
+        "Generaluid": "1369306b-357a-11ec-b84e-2c44fd82861b",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "00-000080",
+    "name": "ITCP General",
+    "uid": "95e839cd-de65-11e8-a21b-0050568d7ea6",
+    "Generalcode": "00-000080",
+    "Generalname": "ITCP General",
+    "Generaluid": "95e839cd-de65-11e8-a21b-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000162",
+        "name": "ITCP Recharge",
+        "uid": "ef8c5fb9-b922-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000080",
+        "Generalname": "ITCP General",
+        "Generaluid": "95e839cd-de65-11e8-a21b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "00-000096",
+    "name": "PMO General",
+    "uid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+    "Generalcode": "00-000096",
+    "Generalname": "PMO General",
+    "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000165",
+        "name": "PMO Recharge",
+        "uid": "7a79a8a4-b923-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000096",
+        "Generalname": "PMO General",
+        "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000143",
+        "name": "PMO/Main office",
+        "uid": "eeb69f6f-fcd3-11ea-a3ec-0050568d7ea6",
+        "Generalcode": "00-000096",
+        "Generalname": "PMO General",
+        "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000142",
+        "name": "PMO/RITHIM",
+        "uid": "0ade6d20-f8cc-11ea-a3e9-0050568d7ea6",
+        "Generalcode": "00-000096",
+        "Generalname": "PMO General",
+        "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000146",
+        "name": "PMO/River Port",
+        "uid": "6f4ba162-017b-11eb-a3ed-0050568d7ea6",
+        "Generalcode": "00-000096",
+        "Generalname": "PMO General",
+        "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000092",
+        "name": "PMO/Western base",
+        "uid": "77a6d68d-0cf4-11ea-a302-0050568d7ea6",
+        "Generalcode": "00-000096",
+        "Generalname": "PMO General",
+        "Generaluid": "8c9ce6ea-2f80-11ea-a32b-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 5
+  },
+  {
+    "code": "00-000061",
+    "name": "Recharge General",
+    "uid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+    "Generalcode": "00-000061",
+    "Generalname": "Recharge General",
+    "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000079",
+        "name": "Recharge/7K",
+        "uid": "a204ab7e-8a45-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000063",
+        "name": "Recharge/7К Residense",
+        "uid": "1edcf0f2-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000064",
+        "name": "Recharge/Jida ТОО",
+        "uid": "2b767633-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000127",
+        "name": "Recharge/New Real Estate",
+        "uid": "d3217710-4101-11ea-a33a-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000062",
+        "name": "Recharge/OPPB",
+        "uid": "101cd74c-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000083",
+        "name": "Recharge/Orion group",
+        "uid": "5ea427aa-304e-11e9-a234-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000133",
+        "name": "Recharge/Other",
+        "uid": "c94e698a-585f-11ea-a34c-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000126",
+        "name": "Recharge/PETROFAC-ISKER",
+        "uid": "15ca165b-35e2-11ea-a331-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000066",
+        "name": "Recharge/Samgat Construction",
+        "uid": "843c27a2-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000078",
+        "name": "Recharge/West Dala",
+        "uid": "8e18fa54-8a45-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000070",
+        "name": "Recharge/West NDT Service ТОО",
+        "uid": "f894b35f-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000068",
+        "name": "Recharge/Wonderland entertainment center ТОО",
+        "uid": "cc59c385-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000072",
+        "name": "Recharge/Алма Ист Вест Груп ТОО",
+        "uid": "62c206ed-84f9-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000132",
+        "name": "Recharge/АМС - Real Estate",
+        "uid": "011633ed-5206-11ea-a34a-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000067",
+        "name": "Recharge/Атырау Ривер Терминал ТОО",
+        "uid": "b8589bdd-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000071",
+        "name": "Recharge/Батыр-Секьюрити ТОО",
+        "uid": "0d2019a5-84f7-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000065",
+        "name": "Recharge/Ресурс Менеджмент Сервис ТОО",
+        "uid": "5e4f98fc-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000069",
+        "name": "Recharge/Топ Хаус Груп ТОО",
+        "uid": "e4ec812f-84f6-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000082",
+        "name": "Recharge/Тосам Компани",
+        "uid": "fe9d08d9-0747-11e9-a227-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000075",
+        "name": "Recharge/Уест Ойл ТОО",
+        "uid": "16655a6c-84fc-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000095",
+        "name": "Recharge/Фаджоли Казахстан филиал",
+        "uid": "5105c9a2-1d9b-11ea-a31b-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000088",
+        "name": "Recharge/Частный фонд им Балгимбаев Н.У",
+        "uid": "1259def4-f988-11e9-a2e7-0050568d7ea6",
+        "Generalcode": "00-000061",
+        "Generalname": "Recharge General",
+        "Generaluid": "b5a716ea-84f5-11e8-8b9c-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 22
+  },
+  {
+    "code": "00-000156",
+    "name": "RGI General",
+    "uid": "a15915e6-7a8d-11eb-a483-0050568d7ea6",
+    "Generalcode": "00-000156",
+    "Generalname": "RGI General",
+    "Generaluid": "a15915e6-7a8d-11eb-a483-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000169",
+        "name": "RGI Recharge",
+        "uid": "dfd5a341-b926-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000156",
+        "Generalname": "RGI General",
+        "Generaluid": "a15915e6-7a8d-11eb-a483-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "00-000139",
+    "name": "SMALL Capital Project General",
+    "uid": "6c59b186-c6ae-11ea-a3b6-0050568d7ea6",
+    "Generalcode": "00-000139",
+    "Generalname": "SMALL Capital Project General",
+    "Generaluid": "6c59b186-c6ae-11ea-a3b6-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000168",
+        "name": "SMALL Capital Project Recharge",
+        "uid": "d30520c6-b926-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000139",
+        "Generalname": "SMALL Capital Project General",
+        "Generaluid": "6c59b186-c6ae-11ea-a3b6-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 1
+  },
+  {
+    "code": "-00-00001",
+    "name": "TCO Camp Project General",
+    "uid": "4c053feb-51da-11e8-965f-000c29cef507",
+    "Generalcode": "-00-00001",
+    "Generalname": "TCO Camp Project General",
+    "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000160",
+        "name": "TCO Camp Project Recharge",
+        "uid": "b88d736c-b922-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000005",
+        "name": "TCOC/Construction",
+        "uid": "a6f929c8-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [
+          {
+            "code": "00-000015",
+            "name": "TCOC/Constr/Architectural",
+            "uid": "ee252c47-75d3-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000014",
+            "name": "TCOC/Constr/Civil",
+            "uid": "e7cc6840-75d3-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000019",
+            "name": "TCOC/Constr/Contruction Management Unit",
+            "uid": "01423d88-75d4-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000017",
+            "name": "TCOC/Constr/MEP",
+            "uid": "f9921e16-75d3-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [
+              {
+                "code": "00-000020",
+                "name": "TCOC/Constr/MEP/Electrical",
+                "uid": "0f374a5d-75d4-11e8-a34a-000c29cef507",
+                "Generalcode": "-00-00001",
+                "Generalname": "TCO Camp Project General",
+                "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "00-000022",
+                "name": "TCOC/Constr/MEP/HVAC & Mechanical",
+                "uid": "1a69f0ce-75d4-11e8-a34a-000c29cef507",
+                "Generalcode": "-00-00001",
+                "Generalname": "TCO Camp Project General",
+                "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "00-000021",
+                "name": "TCOC/Constr/MEP/Plumbing & Underground",
+                "uid": "0f374a5e-75d4-11e8-a34a-000c29cef507",
+                "Generalcode": "-00-00001",
+                "Generalname": "TCO Camp Project General",
+                "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "00-000016",
+            "name": "TCOC/Constr/Steel Structure",
+            "uid": "ee252c48-75d3-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000018",
+            "name": "TCOC/Constr/Survey",
+            "uid": "01423d87-75d4-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 6
+      },
+      {
+        "code": "00-000004",
+        "name": "TCOC/Engineering",
+        "uid": "9db97134-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000007",
+        "name": "TCOC/General Services",
+        "uid": "b48e6bc8-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [
+          {
+            "code": "00-000025",
+            "name": "TCOC/GS/Batching Plant",
+            "uid": "1c77b101-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000027",
+            "name": "TCOC/GS/HR",
+            "uid": "2aaf1fba-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000030",
+            "name": "TCOC/GS/Internal Control",
+            "uid": "3a6b63a8-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000026",
+            "name": "TCOC/GS/IR",
+            "uid": "244dcffb-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000029",
+            "name": "TCOC/GS/IT",
+            "uid": "3a6b63a7-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000024",
+            "name": "TCOC/GS/Logistics & Transportation",
+            "uid": "10c3a241-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000028",
+            "name": "TCOC/GS/Security",
+            "uid": "3456fd60-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000023",
+            "name": "TCOC/GS/Site Administration",
+            "uid": "10c3a240-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 8
+      },
+      {
+        "code": "00-000008",
+        "name": "TCOC/HSE",
+        "uid": "bafeb328-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000012",
+        "name": "TCOC/Planning",
+        "uid": "cd6236f3-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000011",
+        "name": "TCOC/Project Control",
+        "uid": "cd6236f2-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000003",
+        "name": "TCOC/Project Management Department",
+        "uid": "977f0966-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000006",
+        "name": "TCOC/QA-QC",
+        "uid": "a6f929c9-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000010",
+        "name": "TCOC/Regulatory Compliance and Agreement (RA)",
+        "uid": "c7207c04-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000009",
+        "name": "TCOC/Supply Chain Management",
+        "uid": "bafeb329-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [
+          {
+            "code": "00-000033",
+            "name": "TCOC/SCM/Materials Management",
+            "uid": "534e1cea-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000032",
+            "name": "TCOC/SCM/Procurement",
+            "uid": "47d51cdd-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000031",
+            "name": "TCOC/SCM/SCM Management Unit",
+            "uid": "47d51cdc-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000034",
+            "name": "TCOC/SCM/SubContracts Management",
+            "uid": "5b8040ef-75d5-11e8-a34a-000c29cef507",
+            "Generalcode": "-00-00001",
+            "Generalname": "TCO Camp Project General",
+            "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 4
+      },
+      {
+        "code": "00-000013",
+        "name": "TCOC/Turnover & Commissioning",
+        "uid": "d91eb510-75d3-11e8-a34a-000c29cef507",
+        "Generalcode": "-00-00001",
+        "Generalname": "TCO Camp Project General",
+        "Generaluid": "4c053feb-51da-11e8-965f-000c29cef507",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 12
+  },
+  {
+    "code": "00-000084",
+    "name": "TCO MSA General",
+    "uid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+    "Generalcode": "00-000084",
+    "Generalname": "TCO MSA General",
+    "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000182",
+        "name": "MSA/GATE",
+        "uid": "543cf610-8349-11ec-b85e-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000086",
+        "name": "MSA/SR1285660",
+        "uid": "8efa7e2e-c95f-11e9-a2bb-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000085",
+        "name": "MSA/SR1285747",
+        "uid": "8efa7e2c-c95f-11e9-a2bb-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000093",
+        "name": "MSA/SR1286672",
+        "uid": "b53c8fc9-1593-11ea-a30a-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000094",
+        "name": "MSA/SR1287058",
+        "uid": "37c031ae-17f2-11ea-a30b-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000129",
+        "name": "MSA/SR1287277",
+        "uid": "7da32168-48e3-11ea-a33f-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000135",
+        "name": "MSA/SR1287780",
+        "uid": "353292ab-62c8-11ea-a350-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000128",
+        "name": "MSA/SR1288049",
+        "uid": "0f77d122-47e0-11ea-a33f-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000130",
+        "name": "MSA/SR1288091",
+        "uid": "9c68c6d4-48e5-11ea-a33f-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000134",
+        "name": "MSA/SR1288152",
+        "uid": "7c9e1356-5c81-11ea-a34c-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000137",
+        "name": "MSA/SR1289011",
+        "uid": "6b81d073-860e-11ea-a375-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000138",
+        "name": "MSA/SR1289058",
+        "uid": "ac575f6f-89d0-11ea-a377-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000140",
+        "name": "MSA/SR1289259",
+        "uid": "c8028155-c7ec-11ea-a3b8-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000147",
+        "name": "MSA/SR1289531",
+        "uid": "a7685385-03d6-11eb-a3ed-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000151",
+        "name": "MSA/SR1289630",
+        "uid": "f7b4e091-3096-11eb-a400-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000149",
+        "name": "MSA/SR1289761",
+        "uid": "7ec12b03-27dd-11eb-a3fb-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000148",
+        "name": "MSA/SR1289931",
+        "uid": "3667e286-224a-11eb-a3fb-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000150",
+        "name": "MSA/SR1290077",
+        "uid": "a763bdd7-2fcd-11eb-a3ff-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000153",
+        "name": "MSA/SR1290198",
+        "uid": "0f1ac9bd-519d-11eb-a428-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000152",
+        "name": "MSA/SR1290240",
+        "uid": "08d7d91f-4449-11eb-a414-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000154",
+        "name": "MSA/SR1290541",
+        "uid": "4f8a1bf7-651f-11eb-a461-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000158",
+        "name": "MSA/SR1291201",
+        "uid": "a28edb3c-908c-11eb-a49a-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000171",
+        "name": "MSA/SR1291391",
+        "uid": "f89ace12-c384-11eb-b832-2c44fd828619",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000175",
+        "name": "MSA/SR1292267",
+        "uid": "9a9121df-f4e9-11eb-b842-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000181",
+        "name": "MSA/SR1292942 ",
+        "uid": "599e1774-7853-11ec-b85a-2c44fd82861a",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000178",
+        "name": "MSA/SR1293161 ",
+        "uid": "eac33299-622b-11ec-b852-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000179",
+        "name": "MSA/SR1293733 ",
+        "uid": "8e2d8518-62dd-11ec-b852-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000180",
+        "name": "MSA/SR1293828",
+        "uid": "06a9c88d-6876-11ec-b853-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000183",
+        "name": "MSA/SR1294201",
+        "uid": "15a8a1a1-8359-11ec-b85e-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000187",
+        "name": "MSA/SR1294646",
+        "uid": "7d7a0be5-da99-11ec-b867-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000188",
+        "name": "MSA/SR1295292 ",
+        "uid": "84740796-e0ce-11ec-b867-2c44fd82861b",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000163",
+        "name": "TCO MSA Recharge",
+        "uid": "064599bf-b923-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000084",
+        "Generalname": "TCO MSA General",
+        "Generaluid": "a48cef65-c7b9-11e9-a2b9-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 32
+  },
+  {
+    "code": "00-000131",
+    "name": "WTP General",
+    "uid": "29ebf3ad-4d97-11ea-a344-0050568d7ea6",
+    "Generalcode": "00-000131",
+    "Generalname": "WTP General",
+    "Generaluid": "29ebf3ad-4d97-11ea-a344-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000174",
+        "name": "NWTF Project",
+        "uid": "8c84c0b7-eee0-11eb-b842-2c44fd82861b",
+        "Generalcode": "00-000131",
+        "Generalname": "WTP General",
+        "Generaluid": "29ebf3ad-4d97-11ea-a344-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "00-000166",
+        "name": "WTP Recharge",
+        "uid": "52969fb1-b926-11eb-a4cb-0050568d7ea6",
+        "Generalcode": "00-000131",
+        "Generalname": "WTP General",
+        "Generaluid": "29ebf3ad-4d97-11ea-a344-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      }
+    ],
+    "itemscol": 2
+  },
+  {
+    "code": "00-000157",
+    "name": "Завершенные проекты",
+    "uid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+    "Generalcode": "00-000157",
+    "Generalname": "Завершенные проекты",
+    "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "00-000076",
+        "name": "EWRP (закрытый проект)",
+        "uid": "21d112be-8591-11e8-8b9c-000c29cef507",
+        "Generalcode": "00-000157",
+        "Generalname": "Завершенные проекты",
+        "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+        "items": [
+          {
+            "code": "000000116",
+            "name": "Commissioning (на удаление)",
+            "uid": "da666dd6-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000323",
+                "name": "Защита ВН (на удаление)",
+                "uid": "da666ea5-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000324",
+                "name": "ОВКВ ЭиКИП (на удаление)",
+                "uid": "da666ea6-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "000000117",
+            "name": "Completion (на удаление)",
+            "uid": "da666dd7-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000327",
+                "name": "Отдел контроля документации (на удаление)",
+                "uid": "da666ea9-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000119",
+            "name": "Construction & Pre-Comissioning Execution (на удаление)",
+            "uid": "da666dd9-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000329",
+                "name": "Архитектурно-строительный отдел (на удаление)",
+                "uid": "da666eab-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000330",
+                "name": "КИП/Э и телекоммуникации (на удаление)",
+                "uid": "da666eac-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000331",
+                "name": "Отдел  механики и трубопровода (на удаление)",
+                "uid": "da666ead-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "000000121",
+            "name": "Contract (на удаление)",
+            "uid": "da666ddb-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000332",
+                "name": "Контрактный отдел (на удаление)",
+                "uid": "da666eae-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000125",
+            "name": "Environment (на удаление)",
+            "uid": "da666ddf-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000335",
+                "name": "Отдел экологии",
+                "uid": "da666eb1-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000137",
+            "name": "HR (на удаление)",
+            "uid": "da666deb-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000337",
+                "name": "Департамент по Управлению Персоналом (на удаление)",
+                "uid": "da666eb3-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000140",
+            "name": "HSE (на удаление)",
+            "uid": "da666dee-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000338",
+                "name": "Отдел ОЗТиОС (на удаление)",
+                "uid": "da666eb4-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000150",
+            "name": "Logistics (на удаление)",
+            "uid": "da666df8-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000342",
+                "name": "Отдел материально-технического снабжения (на удаление)",
+                "uid": "da666eb8-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000343",
+                "name": "Отдел механики/ технического обслуживания (на удаление)",
+                "uid": "da666eb9-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000344",
+                "name": "Такелажники (на удаление)",
+                "uid": "da666eba-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000345",
+                "name": "Транспортный Отдел (на удаление)",
+                "uid": "da666ebb-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 4
+          },
+          {
+            "code": "000000159",
+            "name": "Materials (на удаление)",
+            "uid": "da666e01-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000348",
+                "name": "Отдел материально-технического снабжения (на удаление)",
+                "uid": "da666ebe-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "-00-00002",
+            "name": "NCOC Commissioning (на удаление)",
+            "uid": "f10086b4-51dc-11e8-965f-000c29cef507",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "00-000077",
+            "name": "NCOC UI 166253 (на удаление)",
+            "uid": "32244354-8591-11e8-8b9c-000c29cef507",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000162",
+            "name": "Procurement (на удаление)",
+            "uid": "da666e04-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000166",
+            "name": "PTW (на удаление)",
+            "uid": "da666e08-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000352",
+                "name": "Гражданское строительство (на удаление)",
+                "uid": "da666ec2-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000353",
+                "name": "Отдел КИП (на удаление)",
+                "uid": "da666ec3-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000354",
+                "name": "Предпусковые и наладочные работы (на удаление)",
+                "uid": "da666ec4-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "000000175",
+            "name": "Security (на удаление)",
+            "uid": "da666e11-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000361",
+                "name": "Служба безопасности (на удаление)",
+                "uid": "da666ecb-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000179",
+            "name": "Technical Office (на удаление)",
+            "uid": "da666e15-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000363",
+                "name": "Отдел Информационных Технологий (на удаление)",
+                "uid": "da666ecd-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000167",
+            "name": "Отдел ОК/КК (на удаление)",
+            "uid": "da666e09-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000356",
+                "name": "Группа контроля (на удаление)",
+                "uid": "da666ec6-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000358",
+                "name": "Отдел КИП/Э (на удаление)",
+                "uid": "da666ec8-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000359",
+                "name": "Покраска (на удаление)",
+                "uid": "da666ec9-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "000000197",
+            "name": "Покраска и строительство (на удаление)",
+            "uid": "da666e27-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 17
+      },
+      {
+        "code": "000000021",
+        "name": "Проект Hook-Up (на удаление)",
+        "uid": "6fdb38a1-4b85-11e7-8487-204747f14401",
+        "Generalcode": "00-000157",
+        "Generalname": "Завершенные проекты",
+        "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+        "items": [
+          {
+            "code": "000000192",
+            "name": "Engineering (на удаление)",
+            "uid": "da666e22-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000205",
+            "name": "IT (на удаление)",
+            "uid": "da666e2f-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000202",
+            "name": "Marine&Logistics (на удаление)",
+            "uid": "da666e2c-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000201",
+            "name": "Procurement (на удаление)",
+            "uid": "da666e2b-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000204",
+            "name": "RA (на удаление)",
+            "uid": "da666e2e-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000196",
+            "name": "Site Management (на удаление)",
+            "uid": "da666e26-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000418",
+                "name": "Civil Construction (на удаление)",
+                "uid": "da666f04-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000421",
+                "name": "E&I (на удаление)",
+                "uid": "da666f07-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000423",
+                "name": "PTW (на удаление)",
+                "uid": "da666f09-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000429",
+                "name": "Survey (на удаление)",
+                "uid": "da666f0f-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 4
+          },
+          {
+            "code": "000000194",
+            "name": "БиОТ проекта (на удаление)",
+            "uid": "da666e24-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000200",
+            "name": "Департамент по Управлению Персоналом (на удаление)",
+            "uid": "da666e2a-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000195",
+            "name": "Отдел ОК/КК (на удаление)",
+            "uid": "da666e25-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000193",
+            "name": "Отдел планирования и Отчётов (на удаление)",
+            "uid": "da666e23-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "000000199",
+            "name": "Подразделение по управлению проектом (на удаление)",
+            "uid": "da666e29-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000157",
+            "Generalname": "Завершенные проекты",
+            "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000424",
+                "name": "Handover Team (на удаление)",
+                "uid": "da666f0a-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000420",
+                "name": "Контрактный отдел (на удаление)",
+                "uid": "da666f06-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000157",
+                "Generalname": "Завершенные проекты",
+                "Generaluid": "ba464306-824e-11eb-a48e-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          }
+        ],
+        "itemscol": 11
+      }
+    ],
+    "itemscol": 2
+  },
+  {
+    "code": "00-000081",
+    "name": "не использовать/",
+    "uid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+    "Generalcode": "00-000081",
+    "Generalname": "не использовать/",
+    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+    "General": true,
+    "items": [
+      {
+        "code": "WBS.082  ",
+        "name": "NCOC UI166253 (на удаление)",
+        "uid": "c17f753f-05c4-11e8-83d2-000c29cef507",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "WBS.087  ",
+            "name": "Архитектурно-строительный отдел (на удаление)",
+            "uid": "fe92dabc-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.093  ",
+            "name": "Департамент по управлению персоналом (на удаление)",
+            "uid": "fe92dac2-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.088  ",
+            "name": "КИП/Э и телекоммуникации (на удаление)",
+            "uid": "fe92dabd-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.084  ",
+            "name": "ОВКВ ЭиКИП (на удаление)",
+            "uid": "fe92dab9-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.100  ",
+            "name": "Отдел контроля качества (на удаление)",
+            "uid": "fe92dac9-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.089  ",
+            "name": "Отдел механики и трубопровода (на удаление)",
+            "uid": "fe92dabe-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.094  ",
+            "name": "Отдел ОЗТиОС (на удаление)",
+            "uid": "fe92dac3-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.101  ",
+            "name": "Покраска и строительство (на удаление)",
+            "uid": "fe92daca-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.085  ",
+            "name": "Склад (на удаление)",
+            "uid": "fe92daba-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.098  ",
+            "name": "Служба безопасности (на удаление)",
+            "uid": "fe92dac7-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.096  ",
+            "name": "Транспортный отдел (на удаление)",
+            "uid": "fe92dac5-0bc7-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 11
+      },
+      {
+        "code": "000000016",
+        "name": "Административный Офис",
+        "uid": "6fdb389c-4b85-11e7-8487-204747f14401",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "ADM.008  ",
+            "name": "Общий административный отдел (вкл. АХО) (на удаление)",
+            "uid": "0d297605-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000132",
+                "name": "General service (на удаление)",
+                "uid": "da666de6-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000299",
+                    "name": "Административно-хозяйственный отдел (на удаление)",
+                    "uid": "da666e8d-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "ADM.007  ",
+            "name": "Отдел безопасности и охраны труда и экология (на удаление)",
+            "uid": "0d297604-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000126",
+                "name": "Environmental (на удаление)",
+                "uid": "da666de0-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000296",
+                    "name": "Отдел экологии (на удаление)",
+                    "uid": "da666e8a-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000139",
+                "name": "HSE (на удаление)",
+                "uid": "da666ded-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000303",
+                    "name": "Отдел ОЗТиОС (на удаление)",
+                    "uid": "da666e91-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000174",
+                "name": "Security (на удаление)",
+                "uid": "da666e10-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000312",
+                    "name": "Служба безопасности (на удаление)",
+                    "uid": "da666e9a-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "ADM.006  ",
+            "name": "Отдел информационных технологий (на удаление)",
+            "uid": "0d297603-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000145",
+                "name": "IT (на удаление)",
+                "uid": "da666df3-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000304",
+                    "name": "Группа по программному обеспечению (на удаление)",
+                    "uid": "da666e92-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000305",
+                    "name": "Отдел Информационных Технологий (на удаление)",
+                    "uid": "da666e93-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 2
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "ADM.004  ",
+            "name": "Отдел кадров (на удаление)",
+            "uid": "0d297601-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000136",
+                "name": "HR (на удаление)",
+                "uid": "da666dea-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000300",
+                    "name": "Административный отдел (на удаление)",
+                    "uid": "da666e8e-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000302",
+                    "name": "Группа по подбору персонала",
+                    "uid": "da666e90-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000301",
+                    "name": "Департамент по Управлению Персоналом",
+                    "uid": "da666e8f-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 3
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "ADM.010  ",
+            "name": "Отдел Проектного контроля и Тендеров (на удаление)",
+            "uid": "0d297607-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000120",
+                "name": "Contract (на удаление)",
+                "uid": "da666dda-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000295",
+                    "name": "Контрактный отдел (на удаление)",
+                    "uid": "da666e89-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000169",
+                "name": "Quality (на удаление)",
+                "uid": "da666e0b-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000310",
+                    "name": "Отдел контроля качества (на удаление)",
+                    "uid": "da666e98-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000188",
+                "name": "ПТО (на удаление)",
+                "uid": "da666e1e-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000317",
+                    "name": "ПТО (на удаление)",
+                    "uid": "da666e9f-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "ADM.012  ",
+            "name": "Транспортный отдел (на удаление)",
+            "uid": "0d297609-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000152",
+                "name": "Logistics & transportation (на удаление)",
+                "uid": "da666dfa-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000307",
+                    "name": "Отдел транспорта и логистики (на удаление)",
+                    "uid": "da666e95-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000181",
+                "name": "Transport&logistic (на удаление)",
+                "uid": "da666e17-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000316",
+                    "name": "Отдел транспорта и логистики (на удаление)",
+                    "uid": "da666e9e-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "ADM.001  ",
+            "name": "Управляющий состав (на удаление)",
+            "uid": "0d2975fe-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000157",
+                "name": "Management (на удаление)",
+                "uid": "da666dff-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000309",
+                    "name": "Руководство (на удаление)",
+                    "uid": "da666e97-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "WBS.080  ",
+            "name": "Филиал (на удаление)",
+            "uid": "fc2e4106-0028-11e8-83d2-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "ADM.002  ",
+            "name": "Финансовый отдел (на удаление)",
+            "uid": "0d2975ff-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000128",
+                "name": "Finance (на удаление)",
+                "uid": "da666de2-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000298",
+                    "name": "Финансовый отдел (на удаление)",
+                    "uid": "da666e8c-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "ADM.003  ",
+            "name": "Юридический отдел (на удаление)",
+            "uid": "0d297600-7f4c-11e7-83a6-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000148",
+                "name": "Legal (на удаление)",
+                "uid": "da666df6-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000306",
+                    "name": "Юридический отдел (на удаление)",
+                    "uid": "da666e94-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 1
+          }
+        ],
+        "itemscol": 10
+      },
+      {
+        "code": "WBS.024  ",
+        "name": "НЕ ИСПОЛЬЗОВАТЬ! (на удаление)",
+        "uid": "8b650939-b332-11e7-afa3-000c29cef507",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "0AMS00263",
+            "name": "Agip EWRP 2011-0707 (на удаление)",
+            "uid": "6fdb389a-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "0AMS00193",
+            "name": "Agip EWRP 2011-0707 (структурное подразделение - не использовать!!!) (на удаление)",
+            "uid": "6fdb3892-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "0AMS00118",
+                "name": "Обще-административные затраты (структурное подразделение) (на удаление)",
+                "uid": "6fdb38a6-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "0AMS00196",
+                "name": "Строительство (косвенные затраты) (на удаление)",
+                "uid": "6fdb38ae-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000220",
+                    "name": "Вспомогательный персонал (на удаление)",
+                    "uid": "da666e3e-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000225",
+                    "name": "Договорной отдел (на удаление)",
+                    "uid": "da666e43-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000209",
+                    "name": "Отдел логистики (на удаление)",
+                    "uid": "da666e33-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000221",
+                    "name": "Транспорт и оборудование (на удаление)",
+                    "uid": "da666e3f-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 4
+              },
+              {
+                "code": "0AMS00170",
+                "name": "Строительство (прямые затраты) (на удаление)",
+                "uid": "6fdb38a7-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000208",
+                    "name": "Геодезия (на удаление)",
+                    "uid": "da666e32-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "0AMS00172",
+                    "name": "Отдел по гражданскому строительству (на удаление)",
+                    "uid": "da666e30-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000231",
+                    "name": "СМУ (группа Утегалиев А.) (на удаление)",
+                    "uid": "da666e49-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000210",
+                    "name": "Участок электрических и КИП работ (на удаление)",
+                    "uid": "da666e34-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 4
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "0AMS00221",
+            "name": "TCO Camp 1153196 (на удаление)",
+            "uid": "6fdb3894-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "0AMS00222",
+                "name": "Косвенные затраты вахтовый поселок (на удаление)",
+                "uid": "6fdb38b3-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "0AMS00223",
+                "name": "Прямые затраты вахтовый поселок (на удаление)",
+                "uid": "6fdb38b4-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "000000007",
+            "name": "TCO MC 1125597 (на удаление)",
+            "uid": "6fdb3893-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000038",
+                "name": "Косвенные затраты мастер контракт (на удаление)",
+                "uid": "6fdb38b2-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000002",
+            "name": "Админ. расходы (на удаление)",
+            "uid": "6fdb38c2-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "0AMS00194",
+                "name": "Административно-хозяйственный отдел АХО (на удаление)",
+                "uid": "6fdb38ad-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000015",
+            "name": "Админ. расходы old (на удаление)",
+            "uid": "6fdb389b-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000087",
+                "name": "Вспомогательный персонал (на удаление)",
+                "uid": "da666db9-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000085",
+                "name": "Отдел кадров (на удаление)",
+                "uid": "da666db7-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000082",
+                "name": "Отдел материально-технического снабжения ОМТС (на удаление)",
+                "uid": "da666db4-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000079",
+                "name": "Управляющий состав (на удаление)",
+                "uid": "da666db1-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 4
+          },
+          {
+            "code": "0AMS00035",
+            "name": "Для пере выставления  ГК / INTERCO (на удаление)",
+            "uid": "6fdb388e-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000012",
+                "name": "*Административно-управленческий персонал (на удаление)",
+                "uid": "da666db0-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "0AMS00098",
+                "name": "Производственно-строительный участок АНПЗ (на удаление)",
+                "uid": "6fdb38a5-4b85-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000011",
+                "name": "Строительно-монтажный участок Карабатан (на удаление)",
+                "uid": "da666daf-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000293",
+                    "name": "Вспомогательный персонал (на удаление)",
+                    "uid": "da666e87-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000289",
+                    "name": "Инженерно технические работники (на удаление)",
+                    "uid": "da666e83-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000290",
+                    "name": "ОЗТОС (на удаление)",
+                    "uid": "da666e84-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000292",
+                    "name": "Отдел контроля качества (на удаление)",
+                    "uid": "da666e86-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "000000006",
+                    "name": "ПРОИЗВОДСТВО Карабатан (на удаление)",
+                    "uid": "da666e88-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 5
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "0AMS00133",
+            "name": "ПТБ Байтерек (на удаление)",
+            "uid": "6fdb389f-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000134",
+                "name": "General service (на удаление)",
+                "uid": "da666de8-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000412",
+                    "name": "Административно-хозяйственный отдел (на удаление)",
+                    "uid": "da666efe-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000003",
+            "name": "ПТБ Байтерек old (на удаление)",
+            "uid": "6fdb388f-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "0AMS00136",
+            "name": "Строительная группа (на удаление)",
+            "uid": "6fdb3891-4b85-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 10
+      },
+      {
+        "code": "WBS.102  ",
+        "name": "Представительство \"ISKER\" в городе Алматы (на удаление)",
+        "uid": "c299693f-0c8d-11e8-83d2-000c29cef507",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [],
+        "itemscol": 0
+      },
+      {
+        "code": "000000018",
+        "name": "Проект \"Поселок Оркен\" (не использовать)",
+        "uid": "6fdb389e-4b85-11e7-8487-204747f14401",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "000000118",
+            "name": "Construction (на удаление)",
+            "uid": "da666dd8-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000177",
+                "name": "Steel Structure (на удаление)",
+                "uid": "da666e13-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000399",
+                    "name": "Металлоконструкции (на удаление)",
+                    "uid": "da666ef1-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000368",
+                "name": "Строительный Отдел (на удаление)",
+                "uid": "da666ed2-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "000000133",
+            "name": "General service (на удаление)",
+            "uid": "da666de7-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000180",
+                "name": "Transport & Logistic (на удаление)",
+                "uid": "da666e16-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "000000400",
+                    "name": "Отдел по подъемным работам (на удаление)",
+                    "uid": "da666ef2-4c13-11e7-8487-204747f14401",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 1
+              },
+              {
+                "code": "000000377",
+                "name": "Общий отдел (на удаление)",
+                "uid": "da666edb-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "000000184",
+            "name": "Turnover&Commission (на удаление)",
+            "uid": "da666e1a-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000405",
+                "name": "Передача и пуско-наладочные работы (на удаление)",
+                "uid": "da666ef7-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          }
+        ],
+        "itemscol": 3
+      },
+      {
+        "code": "WBS.032  ",
+        "name": "Проект \"Поселок Оркен\" new (на удаление)",
+        "uid": "17815906-ec6a-11e7-be92-000c29cef507",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "WBS.061  ",
+            "name": "Департамент безопасности и охраны труда (на удаление)",
+            "uid": "17815923-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.062  ",
+                "name": "Отдел безопасности и охраны труда (на удаление)",
+                "uid": "17815924-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.064  ",
+                "name": "Отдел обучения (на удаление)",
+                "uid": "17815926-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.063  ",
+                "name": "Отдел по допуску к работам (на удаление)",
+                "uid": "17815925-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 3
+          },
+          {
+            "code": "WBS.070  ",
+            "name": "Департамент нормативно-правовых отношений (на удаление)",
+            "uid": "1781592c-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.050  ",
+            "name": "Департамент обеспечения и контроля качества (на удаление)",
+            "uid": "17815918-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.073  ",
+            "name": "Департамент передачи и пуск- наладочных работ (на удаление)",
+            "uid": "1781592f-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.078  ",
+                "name": "Отдел ввода в эксплуатацию (на удаление)",
+                "uid": "d9d0cf23-f469-11e7-9416-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.079  ",
+                "name": "Отдел пуско-наладочных работ (на удаление)",
+                "uid": "d9d0cf24-f469-11e7-9416-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "WBS.072  ",
+            "name": "Департамент планирования (на удаление)",
+            "uid": "1781592e-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.051  ",
+            "name": "Департамент по общим вопросам (на удаление)",
+            "uid": "17815919-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.052  ",
+                "name": "Административно-хозяйственный отдел (на удаление)",
+                "uid": "1781591a-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.059  ",
+                "name": "Отдел внутреннего контроля (на удаление)",
+                "uid": "17815921-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.058  ",
+                "name": "Отдел информоционных технологий (на удаление)",
+                "uid": "17815920-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.053  ",
+                "name": "Отдел логистики и транспорта (на удаление)",
+                "uid": "1781591b-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "WBS.077  ",
+                    "name": "Механические работы (на удаление)",
+                    "uid": "d9d0cf22-f469-11e7-9416-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.074  ",
+                    "name": "Операторы спец.техники (на удаление)",
+                    "uid": "d9d0cf1f-f469-11e7-9416-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.076  ",
+                    "name": "Стропальные работы (на удаление)",
+                    "uid": "d9d0cf21-f469-11e7-9416-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.075  ",
+                    "name": "Транспорт и логистика (на удаление)",
+                    "uid": "d9d0cf20-f469-11e7-9416-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 4
+              },
+              {
+                "code": "WBS.060  ",
+                "name": "Отдел по размещению и административным работам (на удаление)",
+                "uid": "17815922-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.057  ",
+                "name": "Отдел службы безопасности (на удаление)",
+                "uid": "1781591f-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.055  ",
+                "name": "Отдел трудовых отношений (на удаление)",
+                "uid": "1781591d-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.056  ",
+                "name": "Отдел управления персоналом (на удаление)",
+                "uid": "1781591e-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.054  ",
+                "name": "Участок Бетонно-смесительной установки (на удаление)",
+                "uid": "1781591c-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 9
+          },
+          {
+            "code": "WBS.034  ",
+            "name": "Департамент проектирования (на удаление)",
+            "uid": "17815908-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.035  ",
+                "name": "Отдел проектирования (на удаление)",
+                "uid": "17815909-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.036  ",
+                "name": "Отдел технической поддержки (на удаление)",
+                "uid": "1781590a-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          },
+          {
+            "code": "WBS.071  ",
+            "name": "Департамент проектного контроля (на удаление)",
+            "uid": "1781592d-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          },
+          {
+            "code": "WBS.037  ",
+            "name": "Департамент строительства (на удаление)",
+            "uid": "1781590b-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.040  ",
+                "name": "Отдел архитектуры (на удаление)",
+                "uid": "1781590e-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.049  ",
+                "name": "Отдел геодезии (на удаление)",
+                "uid": "17815917-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.039  ",
+                "name": "Отдел гражданского строительства (на удаление)",
+                "uid": "1781590d-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.045  ",
+                "name": "Отдел коммунальных и инженерных сетей (на удаление)",
+                "uid": "17815913-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "WBS.047  ",
+                    "name": "Трубопроводные работы",
+                    "uid": "17815915-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.048  ",
+                    "name": "Установка систем кондиционирования и вентиляции",
+                    "uid": "17815916-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.046  ",
+                    "name": "Электротехнические работы",
+                    "uid": "17815914-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 3
+              },
+              {
+                "code": "WBS.041  ",
+                "name": "Отдел металлоконструкций (на удаление)",
+                "uid": "1781590f-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [
+                  {
+                    "code": "WBS.044  ",
+                    "name": "Сварочные работы",
+                    "uid": "17815912-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.043  ",
+                    "name": "Управление гидроподъемными платформами",
+                    "uid": "17815911-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  },
+                  {
+                    "code": "WBS.042  ",
+                    "name": "Установка металлоконструкций",
+                    "uid": "17815910-ec6a-11e7-be92-000c29cef507",
+                    "Generalcode": "00-000081",
+                    "Generalname": "не использовать/",
+                    "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                    "items": [],
+                    "itemscol": 0
+                  }
+                ],
+                "itemscol": 3
+              },
+              {
+                "code": "WBS.038  ",
+                "name": "Руководство строительной площадки (на удаление)",
+                "uid": "1781590c-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 6
+          },
+          {
+            "code": "WBS.065  ",
+            "name": "Департамент управления поставками (на удаление)",
+            "uid": "17815927-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "WBS.069  ",
+                "name": "Отдел по работе с субподрядными организациями (на удаление)",
+                "uid": "1781592b-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.067  ",
+                "name": "Отдел снабжения (на удаление)",
+                "uid": "17815929-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.066  ",
+                "name": "Руководство отдела управления поставками (на удаление)",
+                "uid": "17815928-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "WBS.068  ",
+                "name": "Склад (на удаление)",
+                "uid": "1781592a-ec6a-11e7-be92-000c29cef507",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 4
+          },
+          {
+            "code": "WBS.033  ",
+            "name": "Руководство проекта (на удаление)",
+            "uid": "17815907-ec6a-11e7-be92-000c29cef507",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [],
+            "itemscol": 0
+          }
+        ],
+        "itemscol": 11
+      },
+      {
+        "code": "000000020",
+        "name": "ПТБ Ритхимнефть",
+        "uid": "6fdb38a0-4b85-11e7-8487-204747f14401",
+        "Generalcode": "00-000081",
+        "Generalname": "не использовать/",
+        "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+        "items": [
+          {
+            "code": "000000135",
+            "name": "General service (на удаление)",
+            "uid": "da666de9-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000414",
+                "name": "Административно-хозяйственный отдел (на удаление)",
+                "uid": "da666f00-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000183",
+            "name": "Transport&logistic (на удаление)",
+            "uid": "da666e19-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000415",
+                "name": "Отдел транспорта и логистики (на удаление)",
+                "uid": "da666f01-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 1
+          },
+          {
+            "code": "000000187",
+            "name": "Warehouse (на удаление)",
+            "uid": "da666e1d-4c13-11e7-8487-204747f14401",
+            "Generalcode": "00-000081",
+            "Generalname": "не использовать/",
+            "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+            "items": [
+              {
+                "code": "000000416",
+                "name": "Отдел материально-технического снабжения (на удаление)",
+                "uid": "da666f02-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              },
+              {
+                "code": "000000417",
+                "name": "Склад (на удаление)",
+                "uid": "da666f03-4c13-11e7-8487-204747f14401",
+                "Generalcode": "00-000081",
+                "Generalname": "не использовать/",
+                "Generaluid": "e2bf2e26-f197-11e8-a222-0050568d7ea6",
+                "items": [],
+                "itemscol": 0
+              }
+            ],
+            "itemscol": 2
+          }
+        ],
+        "itemscol": 3
+      }
+    ],
+    "itemscol": 7
+  }
+]
